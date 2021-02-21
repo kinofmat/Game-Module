@@ -4,9 +4,7 @@ You are in a spaceship and there is a huge field of asteroids coming to destroy 
 
 I created this game, to learn how to use the arcade library, since I haven't used it in any of my projects before. It had it's own way of thinking and coding, that I had to get used to, and I was able to expand what I am able to do with python. I was able to refamiliarize myself with classes and how to use them in python as well.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_pCGQ33dmYI)
 
 # Development Environment
 

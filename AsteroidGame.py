@@ -90,7 +90,7 @@ class MyGame(arcade.View):
         self.asteroid_hit_list = arcade.SpriteList()
         self.fall_life_list = arcade.SpriteList()
 
-        # This image is something I created on my own. I tested it out in a few different colors and added them all to the resources file.
+        # This image is something I created on my own. I tested it out in a few different colors and added them all to the resources file. Note I also added the cross_hairs folder as well.
         image_source = ":resources:images/animated_characters/cross_hairs/greenaimer.png" 
         self.player_sprite = arcade.Sprite(image_source, CHARACTER_SCALING)
         #Position the curser at the center of the screen.
